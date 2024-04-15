@@ -812,6 +812,13 @@
             "icon": "sicon-store",
             "path": "home.test-2",
             "fields": []
+        },
+        {
+            "key": "84e5e7ce-30b9-4673-a578-e2a776933941",
+            "title": "constom-com",
+            "icon": "sicon-store",
+            "path": "home.costome-com",
+            "fields": []
         }
     ],
     "support_url": "https://example.com",
